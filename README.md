@@ -2,6 +2,5 @@
 
 :pencil2: Made for practice
 
-- [Live](https://poke.mukabaw.com/)
-- [Design by AC1design](https://dribbble.com/shots/15128634-Pokemon-Pokedex-Website-Redesign-Concept)
+- [Live]([https://poke.mukabaw.com/](https://poke-jgqpq4u33-sawmu.vercel.app/))
 - [PokeAPI](https://pokeapi.co/)
